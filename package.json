@@ -1,0 +1,25 @@
+{
+	"name": "public_html",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "parcel *.html",
+		"build": "parcel build *.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Ignibit/playzerokilled.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Ignibit/playzerokilled/issues"
+	},
+	"homepage": "https://github.com/Ignibit/playzerokilled#readme",
+	"devDependencies": {
+		"parcel-bundler": "^1.12.4"
+	}
+}
