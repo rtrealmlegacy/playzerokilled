@@ -1,0 +1,2 @@
+Voice chat is something that turned out to be in conflict with dedicated servers, so we didn’t push it this patch. Will inform you about any problem.
+If your hand pose on weapon looks bad then the old workaround to grab it again from the belt is still the way to go.

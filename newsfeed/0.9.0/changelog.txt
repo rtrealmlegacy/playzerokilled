@@ -1,0 +1,16 @@
+0.9
+Bots! <u>They are very stupid</u> for now, but we will send them to school and in the next updates they should get much smarter. Currently only available in the...
+...New gamemode: Evasion. Fight alone or with up to 3 other players against AI Bots. (WIP, please expect bugs)
+Added an in-game scoreboard. You can now check your stats in-game and who you’re playing with. Access it via the thumb rests on Oculus, and the menu button on the non-dominant hand on the Vive.
+Added settings in the main menu. Things like handedeness, graphical settings etc. can be now found there. Server region choice is still in the main menu for quick access. Supersampling is temporarily disabled as it was causing some problems with PC monitor display..
+Fixes for users with AMD GPUs, the game should display properly now. Let us know if you experience any problems.
+Added some destructibles to maps. We are working to bring you much more, but need to watch out for performance so it’s taking time to push them.
+Fixed problems with players spawning in weird places like walls / ceillings / the International Space Station. If it happens it should be rare occurrence, so let us know.
+Changed AFK threshold in the lobby to 180 seconds.
+Added automatic return to lobby after 30 seconds on the summary screen.
+When the server owner clicks ‘Start Game’ a match countdown will now appear.
+Adjusted all weapons damage to increase the survival rate during firefights. 
+Changed M60’s magazine size to 100 rounds (Thanks barclay138)
+Various rebalances of grenades.
+Various fixes and improvements to maps.
+Full changelog available on our discord: http://playzerokilled.com/discord

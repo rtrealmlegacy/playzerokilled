@@ -1,0 +1,11 @@
+0.8.9d
+Added support for player nicknames on Steam and Oculus Store. No more random PC names! 
+Fixed servers hanging from time to time. Because of this many people couldn't play, as the game connected them with server hanged. Now it is working correctly.
+Added destructibles to Suburbs map.
+Fixed disappearing ladders. Damn ladders. Also we’ve disabled hand collision with ladders so it’s much easier to climb.
+Region menu is no longer rendering over the top of your hands.
+Increased Domination and Tournament HUD size, so you can see much better.
+Domination spawn blockers are now working much better (you can shot through them, but cannot move through them).
+Domination kills give +50 points for your team.
+Moved spawn points a little bit on Nuclear so it’s more balanced and harder to spawnkill.
+Minor fixes in connecting to server, should fix problem with people connecting to empty server while there are ones with players available.

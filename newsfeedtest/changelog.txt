@@ -1,0 +1,17 @@
+2
+0.8.5
+Voice is working now. Other players can hear you. Check #protips on discord to see control schemes and how to talk.
+Added TOURNAMENT to gamemode pool on Nuclear. Have fun and be the last man standing.
+Server properly limits number of players, so no more 6v6. If the server is full then new one is created. However, it was fun to play with so many players in one game.
+It is no longer possible to join Data Steal or Tournament in progress. This made games last too long and was unbalanced.
+Yaw adjustment for Oculus Touch controllers so it feels more natural to hold weapons.
+Domination on Nuclear changed to x2 amount of points needed to win, so the game doesn’t end too fast.
+Increased player base movement speed by 20%, because you gotta go fast.
+The problem with taking the mag out of weapons on your belt should not longer appear. You can now safely grab pistols from belt.
+UI of gamemodes fixed so it appears for everyone. Also Domination UI was greatly improved.
+Turned on vibration for when you hold weapon with second hand and they are not matched with in game hands. Also increased distance to break connection so letting go of second hand grab point should happen less often.
+Arms are hidden. We display only hands. You asked and we deliver. This still may be a little buggy, as it was fast change, so report any problems with that.
+Many minor fixes to Nuclear map (collision, bad spawns, etc)
+Added no turning option in main menu for people with 360 tracking.
+Fixed button mapping for vive, as interaction button was on bad controller.
+Fixed grenades pins and lever still being in model after arming grenades

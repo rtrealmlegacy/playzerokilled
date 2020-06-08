@@ -1,0 +1,14 @@
+0.9.1
+Maps now have lighting scenarios. Each map has a different lighting depending on the gamemode. We’ve heard complaints about colour pallete of the game, so this change should improve your experience significantly.
+Added a placeholder in-game menu to let you leave the match without closing the game. Activated by Y button on Oculus controller and Left controller’s menu button on HTC Vive controller.
+Fixes to performance in Main Menu.
+Domination now has only one round, and its time is decided on a per-map basis.
+Fixed some of the performance issues on Suburbs.
+Fixed holo sight floating out of frame. 
+Fixed problems with player stuck in mid-air without a character.
+Scoreboard now shows knocked-down and dead players.
+Domination control zones now have a new VFX.
+Extended loadout selection duration.
+Rotation can now be disabled in main menu.
+Bots now listen to noises. This make them smarter, stronger, faster.
+Fixed bots sometimes not seeing people when their stomach was covered. I know it sounds peculiar. Programming.

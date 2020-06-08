@@ -1,0 +1,3 @@
+Voice chat is disabled but should be ready in week or so, we have to write it from scratch to work between both platforms.
+Bots are available only in Evasion, so remember to choose this gamemode.
+Offhand pose is clipping through the weapon sometimes. Workaround is to drop the weapon on the ground and pick it back up. 
