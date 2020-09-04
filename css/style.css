@@ -146,6 +146,10 @@ body {
     font-weight: lighter;
 }
 
+.comunicat{
+    font-size: 4.5em;
+}
+
 .data_release {
     color: #df1a00;
     font-size: 2em;
@@ -208,6 +212,32 @@ p.bold {
     padding-bottom: 50px;
     position: relative;
 }
+
+.thirdheight .desc{
+    float: left;
+    display: flex;
+    align-items: normal;
+    justify-content: normal;
+    font-size: 2em;
+    text-align: center;
+    line-height: 0.95em;
+}
+
+.thirdheight .desc span{
+    display: inline-block;
+    margin-left: 5px;
+    height: 100px;
+    width: 55px;
+}
+
+.thirdheight .desc span:last-of-type {
+    margin-right: 20px;
+}
+
+.thirdheight .desc span:last-of-type {
+    margin-right: 0;
+}
+
 
 .thirdheight.bottom #hidetimer .row .logos {
     align-self: center;
